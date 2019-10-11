@@ -1,0 +1,8 @@
+name: EnchantableBottles
+version: ${project.version}
+main: com.spikespaz.spigot.enchantablebottles.EnchantableBottles
+api-version: "1.14"
+load: STARTUP
+authors: [spikespaz]
+description: Plugin to make water bottles into Bottled Experience when right-clicking an enchantment table
+website: https://github.com/spikespaz/enchantable-bottles-spigot
