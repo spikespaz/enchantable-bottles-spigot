@@ -7,6 +7,7 @@ This plugin does a very simple thing. Turn Water Bottles into Bottles of Enchant
 ### Contribute to discussion
 
 Spigot Forum: https://www.spigotmc.org/threads/enchantable-bottles.399656/
+
 CurseForge: https://www.curseforge.com/minecraft/bukkit-plugins/enchantable-bottles
 
 Please report bugs here with the issue tracker.
